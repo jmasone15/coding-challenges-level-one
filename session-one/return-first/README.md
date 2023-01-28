@@ -1,16 +1,20 @@
-# Return the sum of Two Numbers
+# Return the First Element in an Array
 
-Create a function that takes two numbers as arguments and returns their sum.
+Create a function that takes an array containing only numbers and return the first element.
 
 ## Examples
 ```
-addition(3, 2) ➞ 5
+getFirstValue([1, 2, 3]) ➞ 1
 
-addition(-3, -6) ➞ -9
+getFirstValue([80, 5, 100]) ➞ 80
 
-addition(7, 3) ➞ 10
+getFirstValue([-500, 0, 50]) ➞ -500
 ```
+
+## Testing
+Once you think you have the correct solution, open your terminal and use the command ```npm test -- first.test.js``` to run the necessary tests.
 
 ## Notes
 - Don't forget to ```return``` the result.
+- How do we ```index``` the first element in an array?
 - If you get stuck, look at the ```sum.test.js``` file for what the tests may look like.
