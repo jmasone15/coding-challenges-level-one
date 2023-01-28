@@ -17,4 +17,4 @@ Once you think you have the correct solution, open your terminal and use the com
 ## Notes
 - Don't forget to ```return``` the result.
 - How do we ```index``` the first element in an array?
-- If you get stuck, look at the ```sum.test.js``` file for what the tests may look like.
+- If you get stuck, look at the ```first.test.js``` file for what the tests may look like.
