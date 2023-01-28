@@ -1,0 +1,16 @@
+# Return the sum of Two Numbers
+
+Create a function that takes two numbers as arguments and returns their sum.
+
+## Examples
+```
+addition(3, 2) ➞ 5
+
+addition(-3, -6) ➞ -9
+
+addition(7, 3) ➞ 10
+```
+
+## Notes
+- Don't forget to ```return``` the result.
+- If you get stuck, look at the ```sum.test.js``` file for what the tests may look like.
