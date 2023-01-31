@@ -13,3 +13,8 @@ const charCount = (char, str) => {
 const detectWord = (str) => {
     return [...str].filter(x => x.toLowerCase() === x).join('')
 }
+
+const secondLargest = (arr) => {
+	arr.splice(arr.indexOf(Math.max(...arr)), 1);
+	return Math.max(...arr);
+}
