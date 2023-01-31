@@ -9,3 +9,7 @@ const timeForMandC = (date) => {
 const charCount = (char, str) => {
     return [...str].filter(x => x === char).length
 }
+
+const detectWord = (str) => {
+    return [...str].filter(x => x.toLowerCase() === x).join('')
+}
