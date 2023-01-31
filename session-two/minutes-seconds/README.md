@@ -1,4 +1,4 @@
-# Return the Sum of Two Numbers
+# Convert Minutes to Seconds
 
 Write a function that takes an ```integer``` minutes and converts it to seconds.
 
