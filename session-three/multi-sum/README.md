@@ -18,4 +18,4 @@ Once you think you have the correct solution, open your terminal and use the com
 ## Notes
 - Don't forget to `return` the result.
 - If you get stuck, look at the `multi-sum.test.js` file for what the tests may look like.
-- Can you solve this with and without recursion?
+- Can you solve this challenge using recursion?
